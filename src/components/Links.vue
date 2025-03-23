@@ -71,6 +71,7 @@ const siteIcon = {
   Fire,
   LaptopCode,
   PhotoAlbumOutlined,
+  Notebook,
 };
 
 // 链接跳转
