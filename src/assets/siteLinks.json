@@ -18,5 +18,15 @@
     "icon": "Compass",
     "name": "起始页",
     "link": "https://nav.cheering571.top/"
+  },
+  {
+    "icon": "Notebook",
+    "name": "备忘录",
+    "link": "https://note.cheering571.top/"
+  },
+  {
+    "icon": "PhotoAlbumOutlined",
+    "name": "IHS",
+    "link": "https://ihs.cheering571.top/"
   }
 ]
